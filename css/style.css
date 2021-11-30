@@ -258,6 +258,14 @@ header {
 .section__subtitle--intro {
     display: inline-block;
 }
+.download{
+    display: inline-block;
+    margin: 20px 30%;
+}
+.download a{
+    text-decoration: none;
+    
+}
 
 @media (min-width: 600px) {
     .intro {
